@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+}
+.main_banner{
+    background-img: url("../img.png");
+    background-position: center top;
+    background-size: cover;
+}
+}
+.main_banner.banner2{
+    background-img: url("../img.png");
+}
+.main_banner.banner3{
+    background-img: url("../img.png");
+}
+.main_banner.banner4{
+    background-img: url("../img.png");
+}
+container{
+    margin: auto;
+    max-width: 1110px;
+}
+header{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+main_banner h1 {
+    font-size: 55px;
+    font-family: sans-serif;
+    color: black;
+    margin-bottom: 50px;
+    line-height: 37px;
+}
+main_banner p {
+    font-size: 55px;
+    font-family: sans-serif;
+    color: black;
+    margin-bottom: 20px;
+    line-height: 37px;
+}
+main_banner .btn {
+    display: flex;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: black;
+    margin-bottom: 65px;
+    line-height: 37px;
+}
+header .conteiner{
+display: flex;
+    justify-content: space-between;
+}
+header.ul{
+    display: flex;
+    width: 100%;
+    padding: 31px;
+}
+.d_flex{
+    display: flex;
+    width: auto;
+    display: flex;
+    width: 100%;dth: 100%;
+    justify-content: space-between;
+
+}
+header.p {
+
+}
+header li span{
+    display: inline-block;
+    color: white;
+    padding: 7px 20px;
+}
+}
+header.ul {
+list-style: none;
+}
+header-soc{    display: flex;
+    font-size: 55px;
+    font-family: 20 kopeek box;
+    color: black;
+    margin-bottom: 65px;
+    line-height: 37px;}
+header li{margin-left: 22px}
