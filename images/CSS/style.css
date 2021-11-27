@@ -1,5 +1,3 @@
-ul#menu li{
-
-    display:inline-block; /* расположить пункты горизонтально */
-
+ul{
+    margin: 300px;
 }
