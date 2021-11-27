@@ -1,27 +1,41 @@
-*{
-    padding: 0;
-    margin: 0;
+html{
+    padding: 1000px;
+    margin: 10000px;
+    display: block;
+    font-style: normal;
+}
+body{
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    font-style: normal;
+    background: #f2f2f2;;
 }
 .main_banner{
     background-position: center top;
     background-size: cover;
 }
+.main_banner.banner2 {
+    background-img: url("../images/1.svg");
+}
 .main_banner.banner2{
     background-img: url("../images/2.svg");
 }
-.main_banner.banner3{
+.main_banner.banner3 {
     background-img: url("../images/3.svg");
+}
+.main_banner.banner4{
+    background-img: url("../images/4.svg");
 }
 container{
     margin: auto;
-    max-width: 1110px;
+
 }
-header{
+header {
     position: absolute;
     width: 100%;
     left: 0;
     top: 0;
-
 }
 main_banner h1 {
     font-size: 55px;
@@ -44,17 +58,18 @@ main_banner .btn {
     color: black;
     margin-bottom: 65px;
     line-height: 37px;
-
+    width: 1680px;
+    height: 945px;
 }
 header .conteiner{
 display: flex;
     justify-content: space-between;
+
 }
 header.ul{
     display: flex;
     width: 100%;
     padding: 31px;
-
 }
 .d_flex{
     display: flex;
@@ -80,7 +95,4 @@ header-soc{
 header. li{
     margin-left: 22px;
 
-}
-.form{
-    background-img: url("../images/4.jpg");
 }
