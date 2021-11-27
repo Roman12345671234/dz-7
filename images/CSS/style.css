@@ -27,7 +27,6 @@ body{
 }
 container{
     margin: auto;
-
 }
 header {
     position: absolute;
@@ -62,7 +61,6 @@ main_banner .btn {
 header .conteiner{
     display: flex;
     justify-content: space-between;
-
 }
 header.ul{
     display: flex;
@@ -73,8 +71,6 @@ header.ul{
     display: flex;
     width: 100%;
     justify-content: space-between;
-}
-header.p {
 }
 header li span{
     display: inline-block;
