@@ -1,5 +1,4 @@
 section1{
-
     background: #ffffff;
 }
 section2{
@@ -12,4 +11,37 @@ h2{
     font-size: 38px;
     padding-top: 123px;
     margin-bottom: -5px;
+}
+.type_input
+{
+    font-size: 25px;
+    text-align: left;
+    height: 71px;
+    width: 350px;
+    border-radius: 10px;
+}
+form{
+    background: #FFFFFF;
+    position: relative;
+}
+button{
+    position: absolute;
+    cursor: pointer;
+    background: #2B59C3;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 830px;
+    color: #FFFFFF;
+    margin-top: 19px;
+    display: inline;
+    text-align: center;
+    border-radius: 30px;
+    width: 228px;
+    height: 71px;
+}
+button:hover{
+    background: #f73;
+    color: yellow;
 }
