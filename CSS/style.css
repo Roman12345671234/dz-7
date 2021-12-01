@@ -1,0 +1,97 @@
+@font-face {
+    font-family: '20 Kopeek';
+    src: url(../fonts/20Kopeek-Book.eot);
+    src: url(../fonts/20Kopeek-Book.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/20Kopeek-Book.woff2) format('woff2'),
+    url(../fonts/20Kopeek-Book.woff) format('woff'),
+    url(../fonts/20Kopeek-Book.ttf) format('truetype'),
+    url(../fonts/20Kopeek-Book.svg#20Kopeek-Book) format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: '20 Kopeek';
+    src: url(../fonts/20Kopeek.eot);
+    src: url(../fonts/20Kopeek.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/20Kopeek.woff2) format('woff2'),
+    url(../fonts/20Kopeek.woff) format('woff'),
+    url(../fonts/20Kopeek.ttf) format('truetype'),
+    url(../fonts/20Kopeek.svg#20Kopeek) format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+section1{
+    background: #ffffff;
+}
+section2{
+    background: #FFFFFF;
+    background-size: auto;
+    margin-left: 285px;
+}
+h1{
+    font-family: '20 Kopeek';
+}
+h2{
+    margin-left: 285px;
+    font-size: 38px;
+    padding-top: 123px;
+    margin-bottom: -5px;
+    font-family: '20 Kopeek';
+}
+p{
+    font-family: '20 Kopeek';
+}
+p1{
+    font-family: '20 Kopeek';
+}
+p2{
+    font-family: '20 Kopeek';
+}
+p3{
+    font-family: '20 Kopeek';
+}
+ul{
+    font-family: '20 Kopeek';
+}
+span{
+    font-family: '20 Kopeek';
+}
+a{
+    font-family: '20 Kopeek';
+}
+.type_input
+{
+    font-size: 25px;
+    text-align: left;
+    height: 71px;
+    width: 350px;
+    border-radius: 10px;
+    font-family: '20 Kopeek';
+}
+form{
+    position: relative;
+}
+button{
+    position: absolute;
+    cursor: pointer;
+    background: #2B59C3;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 830px;
+    color: #FFFFFF;
+    margin-top: 19px;
+    display: inline;
+    text-align: center;
+    border-radius: 30px;
+    width: 228px;
+    height: 71px;
+    font-family: '20 Kopeek';
+}
+button:hover{
+    background: #f73;
+    color: yellow;
+}
