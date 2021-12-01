@@ -22,14 +22,6 @@
     font-style: normal;
     font-display: swap;
 }
-section1{
-    background: #ffffff;
-}
-section2{
-    background: #FFFFFF;
-    background-size: auto;
-    margin-left: 285px;
-}
 h1{
     font-family: '20 Kopeek';
 }
@@ -41,15 +33,6 @@ h2{
     font-family: '20 Kopeek';
 }
 p{
-    font-family: '20 Kopeek';
-}
-p1{
-    font-family: '20 Kopeek';
-}
-p2{
-    font-family: '20 Kopeek';
-}
-p3{
     font-family: '20 Kopeek';
 }
 ul{
